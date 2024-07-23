@@ -1,0 +1,22 @@
+canvas {
+	height: 100vh;
+    width: 100vw;
+    background-color: black;
+}
+
+* {
+    scroll-behavior: smooth;
+}
+
+body {
+	overflow: auto;
+}
+
+.certImg {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
