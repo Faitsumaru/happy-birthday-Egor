@@ -14,8 +14,7 @@ canvas {
 }
 
 .certImg {
-    width: 75vw;
-    height: 100vh;
+    max-width: 100vw;
     display: flex;
     margin: 0 auto;
     align-items: center;
